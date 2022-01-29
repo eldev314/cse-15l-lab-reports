@@ -28,6 +28,9 @@ The symptom in the output, the fact that the image path is included in the outpu
 
 ![Image](change3.png)
 
+Failed Test File: [Link](https://raw.githubusercontent.com/eldev314/markdown-parse/da96bd77a49eb8acd6eb44daf9c07606868cb596/third-file.md)
+
+
 Console Output: The console is once again stuck and not printing anything, suggesting again that the program is stuck in an infinite loop.
 
 ![Image](output3.png)
